@@ -1,0 +1,1 @@
+SELECT * FROM hospital_data.patient_insurance_debt;

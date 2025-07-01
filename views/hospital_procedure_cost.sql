@@ -1,0 +1,1 @@
+SELECT * FROM hospital_data.hospital_procedure_cost;
